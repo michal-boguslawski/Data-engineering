@@ -1,0 +1,11 @@
+category,title,author_artist,release_year,price,genre,language,rating
+BOOK,The Pragmatic Programmer,Andrew Hunt,1999,42.50,Programming,English,9
+MUSIC,Abbey Road,The Beatles,1969,19.99,Rock,English,10
+MOVIE,Inception,Christopher Nolan,2010,14.99,Sci-Fi,English,9
+GAME,The Legend of Zelda: Breath of the Wild,Nintendo,2017,59.99,Adventure,English,10
+BOOK,Atomic Habits,James Clear,2018,18.90,Self-help,English,8
+MUSIC,Random Access Memories,Daft Punk,2013,15.99,Electronic,English,8
+MOVIE,Parasite,Bong Joon-ho,2019,12.99,Thriller,Korean,9
+GAME,God of War,Ricardo Juarez,2018,49.99,Action,English,9
+BOOK,The Name of the Wind,Patrick Rothfuss,2007,17.50,Fantasy,English,9
+MUSIC,To Pimp a Butterfly,Kendrick Lamar,2015,13.49,Hip-Hop,English,10
